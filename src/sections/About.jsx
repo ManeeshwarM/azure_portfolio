@@ -203,7 +203,7 @@ export default function About() {
               <InfoRow icon="📅" label="Graduation Year" value="2020" t={t} />
               <div style={{ marginTop: 12, padding: '12px 14px', background: `${t.accent}08`, border: `1px solid ${t.accent}20`, borderRadius: 8 }}>
                 <div style={{ fontSize: 12, color: t.textMuted, lineHeight: 1.7 }}>
-                  After completing undergrad, Maneeshwar joined industry immediately — accumulating <strong style={{ color: t.text }}>3+ years of hands-on DevOps experience</strong> before returning to academia for his Master's degree.
+                  After completing undergrad, joined industry immediately accumulating <strong style={{ color: t.text }}>3+ years of hands-on DevOps experience</strong> before returning to academia for Master's degree.
                 </div>
               </div>
             </div>
@@ -236,7 +236,7 @@ export default function About() {
               <InfoRow icon="📅" label="OPT Eligibility" value="Eligible upon graduation (May 2026)" t={t} />
               <InfoRow icon="⚡" label="STEM OPT Extension" value="Eligible for 24-month STEM OPT extension" highlight t={t} />
               <InfoRow icon="🏢" label="Total US Work Duration" value="Up to 3 years (OPT + STEM Extension)" t={t} />
-              <InfoRow icon="💼" label="Sponsorship Needed" value="H-1B sponsorship welcome after OPT" t={t} />
+
             </div>
 
             <div style={{ background: t.surface, border: `1px solid ${t.border}`, borderRadius: 10, padding: '18px 22px' }}>
