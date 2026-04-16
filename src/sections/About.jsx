@@ -317,7 +317,7 @@ export default function About() {
               ))}
               <div style={{ marginTop: 14, padding: '12px 14px', background: `${t.accent}08`, border: `1px solid ${t.accent}20`, borderRadius: 8 }}>
                 <div style={{ fontSize: 12, color: t.textMuted, lineHeight: 1.7 }}>
-                  🎓 <strong style={{ color: t.text }}>Academic + Industry balance:</strong> Maintaining a 3.9 GPA while actively working on real-world cloud infrastructure projects demonstrates Maneeshwar's ability to perform under high expectations.
+                  🎓 <strong style={{ color: t.text }}>Academic + Industry balance:</strong> Maintaining a 3.9 GPA while actively working on real-world cloud infrastructure projects demonstrates my ability to perform under high expectations.
                 </div>
               </div>
             </div>
