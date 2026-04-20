@@ -200,7 +200,7 @@ export default function About() {
               </div>
               <InfoRow icon="🎓" label="Degree" value="Bachelor of Engineering (B.E.)" t={t} />
               <InfoRow icon="📚" label="Field of Study" value="Computer Science & Engineering" t={t} />
-              <InfoRow icon="📅" label="Graduation Year" value="2020" t={t} />
+              <InfoRow icon="📅" label="Graduation Year" value="2023" t={t} />
               <div style={{ marginTop: 12, padding: '12px 14px', background: `${t.accent}08`, border: `1px solid ${t.accent}20`, borderRadius: 8 }}>
                 <div style={{ fontSize: 12, color: t.textMuted, lineHeight: 1.7 }}>
                   After completing undergrad, joined industry immediately accumulating <strong style={{ color: t.text }}>3+ years of hands-on DevOps experience</strong> before returning to academia for Master's degree.
