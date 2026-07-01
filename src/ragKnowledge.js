@@ -79,6 +79,15 @@ Key Achievements:
 - Built and maintained Prometheus and Grafana observability dashboards to monitor real-time service health, resource utilization, and system performance metrics.
 - Configured alerting rules and used dashboard insights to validate chaos experiment outcomes and ensure SLO compliance across production microservices.
 
+--- Society for Health and Medical Technology (India) ---
+Role: Software Testing Intern
+Period: Jun 2021 – Dec 2021 (6 months)
+Key Achievements:
+- Completed a 6-month internship as a Software Testing Intern in a healthcare technology environment.
+- Performed manual and functional testing of software applications, identifying bugs and validating fixes.
+- Collaborated with the development team to document test plans and execute regression test cycles.
+- Developed foundational skills in SDLC, agile workflows, and systematic debugging practices.
+
 === PROJECTS ===
 
 1. Multi-Cloud CI/CD Platform with GitOps Delivery and DevSecOps Automation

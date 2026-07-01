@@ -209,6 +209,21 @@ export const EXPERIENCE = [
       "Built and maintained Prometheus and Grafana observability dashboards to monitor real-time service health, resource utilization, and system performance metrics. Configured alerting rules and used dashboard insights to validate chaos experiment outcomes, identify reliability gaps, and ensure SLO compliance across production microservices.",
     ],
   },
+  {
+    company: "Society for Health and Medical Technology",
+    role: "Software Testing Intern",
+    period: "Jun 2021 – Dec 2021",
+    location: "India",
+    logo: "SH",
+    color: "#107c10",
+    kpis: ["Software Testing", "6 Months", "QA", "Healthcare Tech"],
+    bullets: [
+      "Completed a 6-month internship as a Software Testing Intern, gaining hands-on experience in quality assurance processes, test case design, and defect tracking within a healthcare technology environment.",
+      "Performed manual and functional testing of software applications, identifying bugs and validating fixes to ensure product reliability and compliance with requirements.",
+      "Collaborated with the development team to document test plans, execute regression test cycles, and maintain organized test reports for senior review.",
+      "Developed foundational skills in software development lifecycle (SDLC), agile workflows, and systematic debugging practices within a professional engineering setting.",
+    ],
+  },
 ];
 
 export const CERTS = [
